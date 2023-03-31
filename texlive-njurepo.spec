@@ -1,6 +1,6 @@
 Name:		texlive-njurepo
 Version:	50492
-Release:	1
+Release:	2
 Summary:	Reports for Nanjing University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/njurepo
