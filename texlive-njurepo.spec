@@ -3,7 +3,7 @@ Version:	50492
 Release:	2
 Summary:	Reports for Nanjing University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/njurepo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/njurepo
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/njurepo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/njurepo.doc.r%{version}.tar.xz
